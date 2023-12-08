@@ -32,5 +32,5 @@
 <br>Git repo <a href="https://github.com/Moltenhead/Valheim-HideMUI">here</a>.
 <br>
 <br><h3>Version Control
-<br>1.0.0 - First Release
+<br>1.0.1 - First Release
 <br>
