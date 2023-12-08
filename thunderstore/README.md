@@ -1,8 +1,8 @@
 <h1>Hide MUI</h1>
+<img src="https://imgur.com/FJqWEd0" alt="Hide MUI logo"/>
 <h4>Hide My UI</h4>
 <br>
-<br>
-<p>Ever feeling the need to remove all this noise within your UI?
+<p>Ever felt the need to remove all this noise within your UI?
 <br>Here is the mod you deserve!</p>
 <br>
 <h2>Actual features</h2>
@@ -16,17 +16,15 @@
 <li>Extract <b>HideMUI.dll</b> within your <b>BepInEx/plugins</b> folder</li></ol></p>
 <br>
 <h2>Configuration</h2>
-<br>
 <h3>Manual option</h3>
 <p>Once installed, launch the game: this will create a <b>moltenhead.HideMUI.cfg</b> within your <b>BepInEx/config</b> folder.
 <br>You can edit the configuration there.</p>
-<br>
 <h3>Manual option</h3>
 <p>Use a Configuration Manager mod for BepInEx to chnage the config at runtime.</p>
 <br>
 <h2>Anticipated features</h2>
 <p>If I get any envy and time:</p>
-<br><ul><li>Active/Deactivate <b>Status Effects GUI</b></li>
+<ul><li>Active/Deactivate <b>Status Effects GUI</b></li>
 <li>Active/Deactivate <b>Messages</b></li></ul>
 <br>
 <br>Special thanks to <a rhef="https://valheim.thunderstore.io/package/coemt/">coemt</a> for giving the help uploading this!
