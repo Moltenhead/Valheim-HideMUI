@@ -1,7 +1,7 @@
 {
     "name": "HideMUI",
     "version_number": "1.0.0",
-    "website_url": "https://discord.gg/tGJ54cHhns",
+    "website_url": "https://github.com/Moltenhead/Valheim-HideMUI",
     "description": "Hide My UI - crosshair and stealth for the moment.",
     "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2202"

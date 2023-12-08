@@ -31,6 +31,8 @@
 <br>
 <br>Special thanks to <a rhef="https://valheim.thunderstore.io/package/coemt/">coemt</a> for giving the help uploading this!
 <br>
+<br>Git repo <a href="https://github.com/Moltenhead/Valheim-HideMUI">here</a>.
+<br>
 <br><h3>Version Control
 <br>1.0.0 - First Release
 <br>
