@@ -10,7 +10,6 @@
 <li>Active/Deactivate <b>Stealth GUI</b></li></ul>
 <br>
 <h2>Installation</h2>
-<br>
 <p>Simply use the Thunderstore installer, or do it manualy:
 <br><ol><li>Download the zip file</li>
 <li>Extract <b>HideMUI.dll</b> within your <b>BepInEx/plugins</b> folder</li></ol></p>
@@ -19,7 +18,7 @@
 <h3>Manual option</h3>
 <p>Once installed, launch the game: this will create a <b>moltenhead.HideMUI.cfg</b> within your <b>BepInEx/config</b> folder.
 <br>You can edit the configuration there.</p>
-<h3>Manual option</h3>
+<h3>Config Manager option</h3>
 <p>Use a Configuration Manager mod for BepInEx to chnage the config at runtime.</p>
 <br>
 <h2>Anticipated features</h2>
@@ -32,5 +31,5 @@
 <br>Git repo <a href="https://github.com/Moltenhead/Valheim-HideMUI">here</a>.
 <br>
 <br><h3>Version Control
-<br>1.0.2 - First Release
+<br>1.0.3 - First Release
 <br>
