@@ -1,5 +1,5 @@
 <h1>Hide MUI</h1>
-<img src="https://imgur.com/FJqWEd0" alt="Hide MUI logo"/>
+<img src="https://raw.githubusercontent.com/Moltenhead/Valheim-HideMUI/main/icon_512.png" alt="Hide MUI logo"/>
 <h4>Hide My UI</h4>
 <br>
 <p>Ever felt the need to remove all this noise within your UI?
@@ -32,5 +32,5 @@
 <br>Git repo <a href="https://github.com/Moltenhead/Valheim-HideMUI">here</a>.
 <br>
 <br><h3>Version Control
-<br>1.0.1 - First Release
+<br>1.0.2 - First Release
 <br>
