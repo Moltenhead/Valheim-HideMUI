@@ -1,5 +1,6 @@
 <h1>Hide MUI</h1>
 <img src="https://raw.githubusercontent.com/Moltenhead/Valheim-HideMUI/main/icon_512.png" alt="Hide MUI logo"/>
+<br>
 <p>Ever felt the need to remove all this noise within your UI?
 <br>Here is the mod you deserve!</p>
 <br>
@@ -23,10 +24,10 @@
 <ul><li>Active/Deactivate <b>Status Effects GUI</b></li>
 <li>Active/Deactivate <b>Messages</b></li></ul>
 <br>
-<br>Special thanks to <a href="https://valheim.thunderstore.io/package/coemt/">coemt</a> for giving the help uploading this!
+<br>Special thanks to <a href="https://valheim.thunderstore.io/package/coemt/">coemt</a> and the <a href="https://discord.gg/odinplus">Odin Plus Discord Community</a> for helping me uploading this!
 <br>
 <br>Git repo <a href="https://github.com/Moltenhead/Valheim-HideMUI">here</a>.
 <br>
 <br><h3>Version Control
-<br>1.0.4 - First Release
+<br>1.0.5 - First Release
 <br>
